@@ -2,7 +2,7 @@
   "cff-version": "1.2.0",
   "message": "Please cite the dataset version and the original publication.",
   "type": "dataset",
-  "title": "精神病院的農舍照護（1899） / The Care of the Insane in Farm Dwellings — Transcription Dataset",
+  "title": "精神病院的農舍照護(1899) / The Care of the Insane in Farm Dwellings — Transcription Dataset",
   "version": "0.2.0",
   "date-released": "2026-11-20",
   "authors": [
@@ -25,5 +25,6 @@
     "asylum care",
     "residential placement",
     "historical transcription"
-  ]
+  ],
+  "doi": "10.5281/zenodo.24381811"
 }
