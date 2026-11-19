@@ -1,7 +1,7 @@
 {
   "source_title": "The Care of the Insane in Farm Dwellings",
   "title_zh": "精神病院的農舍照護（1899）",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "language": "en",
   "catalogue": "https://archive.org/details/sim_american-journal-of-psychiatry_1899-07_56_1/page/n32/mode/1up",
   "manifest": "https://archive.org/download/sim_american-journal-of-psychiatry_1899-07_56_1/sim_american-journal-of-psychiatry_1899-07_56_1_page_numbers.json",
@@ -34,12 +34,12 @@
           "status": "transcribed",
           "units": [
             {
-              "kind": "text",
+              "kind": "heading",
               "text": "THE CARE OF THE INSANE IN FARM DWELLINGS.",
               "id": "f001-s-u01"
             },
             {
-              "kind": "text",
+              "kind": "byline",
               "text": "BY G. ALDER BLUMER, M. D.,\nUtica State Hospital, Utica, N. Y.",
               "id": "f001-s-u02"
             },
@@ -111,7 +111,7 @@
               "id": "f003-s-u01"
             },
             {
-              "kind": "text",
+              "kind": "footnote",
               "text": "¹ See F. B. Sanborn in Charities Review, 1899.",
               "id": "f003-s-u02"
             }
@@ -154,7 +154,8 @@
             }
           ],
           "notes": [
-            "Small pale defects affect parts of “partition”, “was”, and “discarded”. Initial readings use remaining strokes and sentence context."
+            "Small pale defects affect parts of “partition”, “was”, and “discarded”. Initial readings use remaining strokes and sentence context.",
+            "The crop shows the comma immediately before the dollar sign in rent,$100. The date remains the relative phrase printed by the author."
           ]
         }
       ]
@@ -252,7 +253,7 @@
               "id": "f007-s-u01"
             },
             {
-              "kind": "text",
+              "kind": "footnote",
               "text": "² The Insane in Private Dwellings in Massachusetts. By Sir Arthur Mitchell, K. C. B., M. D., LL. D., Boston Med. and Surg. Journal of November 4, 1897.",
               "id": "f007-s-u02"
             }
@@ -289,7 +290,7 @@
               "id": "f008-s-u01"
             },
             {
-              "kind": "text",
+              "kind": "footnote",
               "text": "³ The Family System as an Accessory Provision for our Insane Poor. By Henry R. Stedman, M. D., in Sixth Annual Report of the Mass. Board of Health, Lunacy and Charity, 1884. See also, by the same author, The Family or Boarding-out System, Am. Jour. of Insanity, January, 1890.",
               "id": "f008-s-u02"
             }
@@ -327,32 +328,28 @@
             },
             {
               "kind": "text",
-              "text": "This readiness on the part of the people to serve the commonwealth in a humane work appears to have grown in proportion as that other bugbear has dwindled, namely, the fear that homicide, suicide or other casualty would follow in the wake of the larger freedom of family life. The fact is that accidents are less frequent among the boarded-out insane than among a like number of patients in the close asylum. In further confirmation of Scottish claims, the fallacy that the removal of able-bodied patients to colonies cripples the available working force of the parent institution has been shown by the results of Utica experience. Hear what Sir Arthur Mitchell has to say on this subject:⁵ “When such patients are removed this is what happens: it is found that there are other patients who can be induced to work.",
+              "text": "This readiness on the part of the people to serve the commonwealth in a humane work appears to have grown in proportion as that other bugbear has dwindled, namely, the fear that homicide, suicide or other casualty would follow in the wake of the larger freedom of family life. The fact is that accidents are less frequent among the boarded-out insane than among a like number of patients in the close asylum. In further confirmation of Scottish claims, the fallacy that the removal of able-bodied patients to colonies cripples the available working force of the parent institution has been shown by the results of Utica experience. Hear what Sir Arthur Mitchell has to say on this subject:⁵ “When such patients are removed this is what happens: it is found that there are other patients who can be induced to work. The set of good workers, being sufficient in number, no serious effort is made to lead non-workers to become workers. They are not wanted and a refusal to work is too easily accepted as a thing that cannot be got over.”",
               "id": "f009-s-u02"
             },
             {
               "kind": "text",
-              "text": "The set of good workers, being sufficient in number, no serious effort is made to lead non-workers to become workers. They are not wanted and a refusal to work is too easily accepted as a thing that cannot be got over.”",
+              "text": "Having thus all but occupied my allotted third of an hour—a limit that has precluded academic treatment of the subject, although in any event I could but have repeated a twice-told tale— permit me in conclusion earnestly to urge upon those who have not yet made the essay, not only the serious consideration of this great public question but the tentative solution of it by actual ex-",
               "id": "f009-s-u03"
             },
             {
-              "kind": "text",
-              "text": "Having thus all but occupied my allotted third of an hour—a limit that has precluded academic treatment of the subject, although in any event I could but have repeated a twice-told tale— permit me in conclusion earnestly to urge upon those who have not yet made the essay, not only the serious consideration of this great public question but the tentative solution of it by actual ex-",
+              "kind": "footnote",
+              "text": "⁴ Eighteenth Annual Report of the State Board of Lunacy and Charity, January, 1897.",
               "id": "f009-s-u04"
             },
             {
-              "kind": "text",
-              "text": "⁴ Eighteenth Annual Report of the State Board of Lunacy and Charity, January, 1897.",
-              "id": "f009-s-u05"
-            },
-            {
-              "kind": "text",
+              "kind": "footnote",
               "text": "⁵ Boston Medical and Surgical Journal, loc. cit.",
-              "id": "f009-s-u06"
+              "id": "f009-s-u05"
             }
           ],
           "notes": [
-            "The body ends in ex-, continuing with periment on the next page."
+            "The body ends in ex-, continuing with periment on the next page.",
+            "The quotation stays in one paragraph. The line starting “The set” is aligned with the other continuation lines."
           ]
         }
       ]
@@ -383,17 +380,19 @@
               "id": "f010-s-u01"
             },
             {
-              "kind": "text",
-              "text": "Seht ihr den Mond dort stehen?\nEr ist nur halb zu sehen\nUnd ist doch rund und schön.\nSo sind wohl manche Sachen\nDie wir getrost belachen,\nWeil unsere Augen sie nicht sehen",
+              "kind": "verse",
+              "text": "Seht ihr den Mond dort stehen?\nEr ist nur halb zu sehen\nUnd ist doch rund und schön.\nSo sind wohl manche Sachen\nDie wir getrost belachen,\nWeil unsere Augen sie nicht sehen.",
               "id": "f010-s-u02"
             },
             {
-              "kind": "text",
+              "kind": "footnote",
               "text": "⁶ Vide passim.",
               "id": "f010-s-u03"
             }
           ],
-          "notes": []
+          "notes": [
+            "A faint, baseline-aligned terminal dot appears after sehen in the closing verse. The revision reads it as a period and records the uncertainty."
+          ]
         }
       ]
     }

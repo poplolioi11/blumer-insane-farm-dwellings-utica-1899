@@ -1,5 +1,5 @@
 # Review notes
 
-Version 0.1.0. Source frames 1–10.
+Version 0.2.0. Source frames 1–10.
 
-Initial transcription from the fixed July 1899 journal images, using the source OCR as a draft and checking all ten pages visually. This is the full named article only. Running heads, gathering signature, and unrelated facing-page type are outside article text. Wrapped words are rejoined within pages. Original lexical hyphens, printed page boundaries, footnotes and poem line breaks are retained. No serious damage was seen in the target page text. Local pale defects on pp. 34–35 are noted. Independent review is pending.
+All ten fixed article pages were read in an independent second pass before the initial text was opened. The two transcripts were compared across all pages, and the original images were checked for each difference and for faint print, numerical values, footnotes, and the closing verse. The revision preserves the source’s original relative dating. It joins two parts of one continuous quotation on p. 39, reads a faint final period in the verse on p. 40, and identifies headings, the byline, footnotes, and the verse as separate text units. Pale letters on pp. 34–35 and the uncertain terminal dot are documented in the page notes. Article scope includes the title, author information, text, six footnotes, and six-line verse. An AI reader performed the independent pass with local OCR assistance. Human and expert review remain pending.
